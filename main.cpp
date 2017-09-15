@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(int argv, char** argc){
+int b=5;
 int F[20]={0,1};
 int* a;
 *a = 5;
